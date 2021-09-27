@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+a img {
+    height:60px;
+}
+
+#banner {
+    background: url(/img/background.jpg)no-repeat center 100%;
+    background-size: cover;   
+}
