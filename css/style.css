@@ -11,7 +11,17 @@ a img {
     height:60px;
 }
 
+.text-purple {
+    color: #8755bc;
+}
+
 #banner {
-    background: url(/img/background.jpg)no-repeat center 100%;
+    background: url(/img/background.jpg) no-repeat center 100%;
     background-size: cover;   
 }
+
+#instagram {
+    background: url(/img/phone-instagram.png) no-repeat left 100%;
+    background-position: 0 50%  ;
+}
+
