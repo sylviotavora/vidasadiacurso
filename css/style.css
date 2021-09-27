@@ -15,6 +15,11 @@ a img {
     color: #8755bc;
 }
 
+.btn-purple {
+    color: #FFFFFF;
+    background: #8755bc;
+}
+
 #banner {
     background: url(/img/background.jpg) no-repeat center 100%;
     background-size: cover;   
