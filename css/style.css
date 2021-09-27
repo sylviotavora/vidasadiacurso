@@ -20,13 +20,21 @@ a img {
     background: #8755bc;
 }
 
+.bg-brown {
+    background: #544B49;
+}
+
+.social {
+    height: 50px;
+}
+
 #banner {
-    background: url(/img/background.jpg) no-repeat center 100%;
+    background: url(../img/background.jpg) no-repeat center 100%;
     background-size: cover;   
 }
 
 #instagram {
-    background: url(/img/phone-instagram.png) no-repeat left 100%;
+    background: url(../img/phone-instagram.png) no-repeat left 100%;
     background-position: 0 50%  ;
 }
 
